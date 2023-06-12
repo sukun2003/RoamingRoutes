@@ -235,13 +235,14 @@
 }
 
 .popular-card .card-content {
-  position: absolute;
-  bottom: 20px;
+   position: absolute;
+  bottom: 5px;
   left: 20px;
   right: 20px;
   background: var(--white);
   border-radius: var(--radius-25);
-  padding: 20px;
+  padding: 10px;
+  padding-left: 22px;
 }
 
 
